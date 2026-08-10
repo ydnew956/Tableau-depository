@@ -70,3 +70,8 @@ Strengthened storytelling skills by turning raw data into actionable insights.
 
 5 Interact with map visualizations to see geographic sales distribution.
 
+
+link to my tableau dashboard
+
+https://public.tableau.com/app/profile/wendy.white8612/vizzes
+
