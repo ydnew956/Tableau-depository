@@ -1,5 +1,7 @@
 📊 Tableau Retail & Sales Data Visualization Project
+
 📘 Project Overview
+
 This project was completed during the Data Technician Bootcamp, focusing on transforming retail and sales data into interactive dashboards using Tableau. The goal was to apply data storytelling techniques to uncover trends, patterns, and actionable insights through visual analytics.
 
 🧠 Skills Demonstrated
