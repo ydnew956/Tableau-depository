@@ -73,5 +73,15 @@ Strengthened storytelling skills by turning raw data into actionable insights.
 
 link to my tableau dashboard
 
-https://public.tableau.com/app/profile/wendy.white8612/vizzes
+[https://public.tableau.com/app/profile/wendy.white8612/vizzes](https://public.tableau.com/app/profile/wendy.white8612/viz/GlobalHealthInsights_17834233842180/LifeExpectancyvsBMI)
+
+<img width="1841" height="856" alt="Screenshot 2026-08-10 141506" src="https://github.com/user-attachments/assets/3b5f7d40-9f57-421f-b006-060c42dbe5e5" />
+
+https://public.tableau.com/app/profile/wendy.white8612/viz/GBEmployementdataset/GBEmploymentdata
+
+<img width="1842" height="864" alt="Screenshot 2026-08-10 141729" src="https://github.com/user-attachments/assets/5bcc76f7-176c-40ca-9eb0-97f2ddc5c2f6" />
+
+
+
+
 
