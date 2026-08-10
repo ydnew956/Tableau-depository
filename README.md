@@ -3,6 +3,7 @@
 This project was completed during the Data Technician Bootcamp, focusing on transforming retail and sales data into interactive dashboards using Tableau. The goal was to apply data storytelling techniques to uncover trends, patterns, and actionable insights through visual analytics.
 
 🧠 Skills Demonstrated
+
 🎛️ Dashboard Design
 
 🧩 Built interactive dashboards combining multiple views and KPIs.
@@ -23,6 +24,7 @@ Designed a variety of charts to communicate insights effectively:
 🗺️ Map visualizations – Display geographic distribution of sales.
 
 🗣️ Data Storytelling
+
 Highlighted key insights using colour, layout, and annotations.
 
 Created narratives around seasonal trends and top-performing products.
@@ -30,6 +32,7 @@ Created narratives around seasonal trends and top-performing products.
 Enabled interactive exploration through filters and slicers.
 
 🛍️ Dataset Description
+
 The dataset included:
 
 Product categories (Clothing, Electronics, Beauty)
@@ -39,6 +42,7 @@ Sales, quantity, and commission data
 Transaction dates for monthly and yearly trend analysis
 
 🚀 Outcomes
+
 Delivered a professional Tableau dashboard showcasing retail performance.
 
 Demonstrated proficiency in data visualization, calculated fields, and interactive design.
@@ -46,6 +50,7 @@ Demonstrated proficiency in data visualization, calculated fields, and interacti
 Strengthened storytelling skills by turning raw data into actionable insights.
 
 🧰 Tools Used
+
 💻 Tableau Desktop
 
 🗂️ Excel / CSV datasets
@@ -54,6 +59,7 @@ Strengthened storytelling skills by turning raw data into actionable insights.
 
 
 🧭 How to Use
+
 1 Open the Tableau workbook (Retail_Sales_Dashboard.twbx) in Tableau Desktop or Tableau Public.
 
 2 Navigate through dashboard tabs to explore different views (Sales Overview, Category Breakdown, Regional Map).
