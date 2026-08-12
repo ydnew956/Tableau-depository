@@ -76,15 +76,21 @@ Designed a variety of charts to communicate insights effectively:
 
 ## 📊 GB Employment Data (Tableau Dashboard)
 
-[![GB Employment Data](https://public.tableau.com/static/images/GB/GBEmployementdataset/GBEmploymentdata/1.png)](https://public.tableau.com/views/GBEmployementdataset/GBEmploymentdata)
+<a href="https://public.tableau.com/views/GBEmployementdataset/GBEmploymentdata" target="_blank">
+  <img src="https://public.tableau.com/static/images/GB/GBEmployementdataset/GBEmploymentdata/1.png" alt="GB Employment Data Tableau Dashboard">
+</a>
 
-Click the image above to open the interactive Tableau dashboard.
+Click the image above to open the interactive Tableau dashboard in a new tab.
+
 
 ## 📊 Life Expectancy vs BMI — Tableau Dashboard
 
-[![Life Expectancy vs BMI](https://public.tableau.com/static/images/Gl/GlobalHealthInsights_17834233842180/LifeExpectancyvsBMI/1.png)](https://public.tableau.com/views/GlobalHealthInsights_17834233842180/LifeExpectancyvsBMI)
+<a href="https://public.tableau.com/views/GlobalHealthInsights_17834233842180/LifeExpectancyvsBMI" target="_blank">
+  <img src="https://public.tableau.com/static/images/Gl/GlobalHealthInsights_17834233842180/LifeExpectancyvsBMI/1.png" alt="Life Expectancy vs BMI Tableau Dashboard">
+</a>
 
-Click the image above to open the interactive Tableau dashboard.
+Click the image above to open the interactive Tableau dashboard in a new tab.
+
 
 
 
