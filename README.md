@@ -60,7 +60,7 @@ Designed a variety of charts to communicate insights effectively:
 - 🎨 Dashboard design and chart creation
 
 
-🧭 How to Use
+## 🧭 How to Use
 
 1. Open the Tableau workbook (Retail_Sales_Dashboard.twbx) in Tableau Desktop or Tableau Public.
 
@@ -72,8 +72,8 @@ Designed a variety of charts to communicate insights effectively:
 
 5. Interact with map visualizations to see geographic sales distribution.
 
-
-link to my tableau dashboard
+## Examples
+Links to my tableau dashboard
 
 [Life Expectancy](https://public.tableau.com/app/profile/wendy.white8612/viz/GlobalHealthInsights_17834233842180/LifeExpectancyvsBMI)
 
