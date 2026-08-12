@@ -62,7 +62,7 @@ Designed a variety of charts to communicate insights effectively:
 
 ##  How to Use
 
-1. Open the Tableau workbook (Retail_Sales_Dashboard.twbx) in Tableau Desktop or Tableau Public.
+1. Open the Tableau workbook in Tableau Desktop or Tableau Public.
 
 2. Navigate through dashboard tabs to explore different views (Sales Overview, Category Breakdown, Regional Map).
 
