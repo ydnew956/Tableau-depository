@@ -1,8 +1,8 @@
-#  Tableau Retail & Sales Data Visualization Project
+#  Tableau Visualization Project
 
 ##  Project Overview
 
-This project was completed during the Data Technician Bootcamp week 2, focusing on transforming retail and sales data into interactive dashboards using Tableau. The goal was to apply data storytelling techniques to uncover trends, patterns, and actionable insights through visual analytics.
+This project was completed during the Data Technician Bootcamp week 2, focusing on transforming Health and employemnt data into interactive dashboards using Tableau. The goal was to apply data storytelling techniques to uncover trends, patterns, and actionable insights through visual analytics.
 
 ##  Skills Demonstrated
 
@@ -35,13 +35,7 @@ Designed a variety of charts to communicate insights effectively:
 
 ##  Dataset Description
 
-- The dataset included:
 
-- Product categories (Clothing, Electronics, Beauty)
-
-- Sales, quantity, and commission data
-
-- Transaction dates for monthly and yearly trend analysis
 
 ##  Outcomes
 
@@ -64,13 +58,13 @@ Designed a variety of charts to communicate insights effectively:
 
 1. Open the Tableau workbook in Tableau Desktop or Tableau Public.
 
-2. Navigate through dashboard tabs to explore different views (Sales Overview, Category Breakdown, Regional Map).
+2. Navigate through dashboard tabs to explore different views.
 
 3. Use filters and slicers to adjust time periods, product categories, or regions.
 
 4. Hover over charts to view detailed tooltips and insights.
 
-5. Interact with map visualizations to see geographic sales distribution.
+5. Interact with map visualizations to see geographic distribution.
 
 ## Examples
 
