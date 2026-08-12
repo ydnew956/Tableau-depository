@@ -73,15 +73,21 @@ Designed a variety of charts to communicate insights effectively:
 5. Interact with map visualizations to see geographic sales distribution.
 
 ## Examples
-Links to my tableau dashboard
 
-[Life Expectancy](https://public.tableau.com/app/profile/wendy.white8612/viz/GlobalHealthInsights_17834233842180/LifeExpectancyvsBMI)
+## 📊 GB Employment Data (Tableau Dashboard)
 
-![Screenshot of Life Expectancy scatter chart created in Tableau](https://github.com/user-attachments/assets/3b5f7d40-9f57-421f-b006-060c42dbe5e5)
+[![GB Employment Data](https://public.tableau.com/static/images/GB/GBEmployementdataset/GBEmploymentdata/1.png)](https://public.tableau.com/views/GBEmployementdataset/GBEmploymentdata)
 
-[GBEmployment](https://public.tableau.com/app/profile/wendy.white8612/viz/GBEmployementdataset/GBEmploymentdata)
+Click the image above to open the interactive Tableau dashboard.
 
-![Screenshot of GBEmployment chart created in Tableau](https://github.com/user-attachments/assets/5bcc76f7-176c-40ca-9eb0-97f2ddc5c2f6)
+## 📊 Life Expectancy vs BMI — Tableau Dashboard
+
+[![Life Expectancy vs BMI](https://public.tableau.com/static/images/Gl/GlobalHealthInsights_17834233842180/LifeExpectancyvsBMI/1.png)](https://public.tableau.com/views/GlobalHealthInsights_17834233842180/LifeExpectancyvsBMI)
+
+Click the image above to open the interactive Tableau dashboard.
+
+
+
 
 
 
