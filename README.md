@@ -1,31 +1,31 @@
-# 📊 Tableau Retail & Sales Data Visualization Project
+#  Tableau Retail & Sales Data Visualization Project
 
-## 📘 Project Overview
+##  Project Overview
 
 This project was completed during the Data Technician Bootcamp week 2, focusing on transforming retail and sales data into interactive dashboards using Tableau. The goal was to apply data storytelling techniques to uncover trends, patterns, and actionable insights through visual analytics.
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
-- 🎛️ Dashboard Design
+-  Dashboard Design
 
-- 🧩 Built interactive dashboards combining multiple views and KPIs.
+-  Built interactive dashboards combining multiple views and KPIs.
 
-- 🔍 Used filters and slicers for dynamic data exploration.
+-  Used filters and slicers for dynamic data exploration.
 
-- 🧮 Applied calculated fields to create custom metrics and logic.
+-  Applied calculated fields to create custom metrics and logic.
 
-- 📈 Data Visualization
+-  Data Visualization
 Designed a variety of charts to communicate insights effectively:
 
-- 📊 Bar charts – Compare product categories and regions.
+-  Bar charts – Compare product categories and regions.
 
-- 📉 Line charts – Track monthly and yearly sales trends.
+-  Line charts – Track monthly and yearly sales trends.
 
-- 🥧 Pie charts – Show proportion of sales by category.
+-  Pie charts – Show proportion of sales by category.
 
-- 🗺️ Map visualizations – Display geographic distribution of sales.
+-  Map visualizations – Display geographic distribution of sales.
 
-## 🗣️ Data Storytelling
+##  Data Storytelling
 
 - Highlighted key insights using colour, layout, and annotations.
 
@@ -33,7 +33,7 @@ Designed a variety of charts to communicate insights effectively:
 
 - Enabled interactive exploration through filters and slicers.
 
-## 🛍️ Dataset Description
+##  Dataset Description
 
 - The dataset included:
 
@@ -43,7 +43,7 @@ Designed a variety of charts to communicate insights effectively:
 
 - Transaction dates for monthly and yearly trend analysis
 
-## 🚀 Outcomes
+##  Outcomes
 
 - Delivered a professional Tableau dashboard showcasing retail performance.
 
@@ -51,16 +51,16 @@ Designed a variety of charts to communicate insights effectively:
 
 - Strengthened storytelling skills by turning raw data into actionable insights.
 
-## 🧰 Tools Used
+##  Tools Used
 
-- 💻 Tableau Desktop
+-  Tableau Desktop
 
-- 🗂️ Excel / CSV datasets
+-  Excel / CSV datasets
 
-- 🎨 Dashboard design and chart creation
+-  Dashboard design and chart creation
 
 
-## 🧭 How to Use
+##  How to Use
 
 1. Open the Tableau workbook (Retail_Sales_Dashboard.twbx) in Tableau Desktop or Tableau Public.
 
@@ -74,7 +74,7 @@ Designed a variety of charts to communicate insights effectively:
 
 ## Examples
 
-## 📊 GB Employment Data (Tableau Dashboard)
+## GB Employment Data (Tableau Dashboard)
 
 <a href="https://public.tableau.com/views/GBEmployementdataset/GBEmploymentdata" target="_blank">
   <img src="https://public.tableau.com/static/images/GB/GBEmployementdataset/GBEmploymentdata/1.png" alt="GB Employment Data Tableau Dashboard">
@@ -83,7 +83,7 @@ Designed a variety of charts to communicate insights effectively:
 Click the image above to open the interactive Tableau dashboard in a new tab.
 
 
-## 📊 Life Expectancy vs BMI — Tableau Dashboard
+##  Life Expectancy vs BMI — Tableau Dashboard
 
 <a href="https://public.tableau.com/views/GlobalHealthInsights_17834233842180/LifeExpectancyvsBMI" target="_blank">
   <img src="https://public.tableau.com/static/images/Gl/GlobalHealthInsights_17834233842180/LifeExpectancyvsBMI/1.png" alt="Life Expectancy vs BMI Tableau Dashboard">
