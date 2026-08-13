@@ -75,7 +75,7 @@ Each image links to my work
   <img src="https://public.tableau.com/static/images/GB/GBEmployementdataset/GBEmploymentdata/1.png" alt="GB Employment Data Tableau Dashboard">
 </a>
 
-Click the image above to open the interactive Tableau dashboard in a new tab. 
+Click the image above to open the interactive Tableau dashboard 
 
 
 ##  Life Expectancy vs BMI — Tableau Dashboard
