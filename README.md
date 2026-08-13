@@ -67,6 +67,7 @@ Designed a variety of charts to communicate insights effectively:
 5. Interact with map visualizations to see geographic distribution.
 
 ## Examples
+Each image links to my work
 
 ## GB Employment Data (Tableau Dashboard)
 
