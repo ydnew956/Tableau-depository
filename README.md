@@ -70,6 +70,7 @@ Designed a variety of charts to communicate insights effectively:
 Each image links to my work
 
 ## GB Employment Data (Tableau Dashboard)
+<img width="1675" height="754" alt="Screenshot 2026-08-18 140932" src="https://github.com/user-attachments/assets/2d7c1804-9bbb-4117-b35c-c2dcc69005b1" />
 
 <a href="https://public.tableau.com/views/GBEmployementdataset/GBEmploymentdata" target="_blank">
   <img src="https://public.tableau.com/static/images/GB/GBEmployementdataset/GBEmploymentdata/1.png" alt="GB Employment Data Tableau Dashboard">
